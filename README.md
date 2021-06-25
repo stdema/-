@@ -4,4 +4,3 @@
 matlab_deeplearning toolbox_새로운 영상을 분류하도록 딥러닝 신경망 훈련시키기를 토대로 공부하였다.
 
 ㅡ
-![image](https://user-images.githubusercontent.com/86040099/123445387-cb177680-d612-11eb-9f86-c72fd759d821.png)
